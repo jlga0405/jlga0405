@@ -5,7 +5,7 @@ A passionate professional in **networking**, **cybersecurity**, and **IT automat
 - 🧠 I'm focused on systems administration, network security, and automation of tasks in enterprise environments  
 - 🛠️ Tools of choice: **Python**, **SQL**, **PowerShell**  
 - 📈 I also specialize in **resource monitoring** and **optimization of infrastructure**  
-- 📫 How to reach me: [atariguas2@gmail.com](mailto:atariguas2@gmail.com)
+- 📫 How to reach me: [jorgexgarcia1.com](mailto:atariguas2@gmail.com)
 
 ---
 
